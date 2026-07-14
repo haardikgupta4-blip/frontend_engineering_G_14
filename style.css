@@ -1,0 +1,40 @@
+body {
+    background-color : black; 
+    font-family : Arial, sans-serif ;
+    color : white ;
+
+    
+}
+.header{
+    text-align:center;
+    color: white;
+}
+h1 {
+        color: da;
+        margin-left: 20px;
+        text-align: center;
+        font-family: "Playwrite ID", cursive;
+        font-optical-sizing: auto ;
+        background: lightpink; 
+        color : white ;
+
+}
+h2 {
+    font-family: "Geist Pixel", sans-serif;
+    font-optical-sizing: auto;
+      color : white ;
+}
+
+h3 {
+    font-family: "Montenegrin Gothic One", serif;
+    font-weight: 400;
+      color : white ;
+}  
+h4 {
+      color : white ;
+}
+p {
+    font-family: "Playwrite ID", cursive;
+    font-optical-sizing: auto;
+      color : white ;
+}
